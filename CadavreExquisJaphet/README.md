@@ -22,6 +22,12 @@ Comme tous les jours, il s'asseoit devant l'ordinateur et il l'allume.<br>
 Mais c'est quoi?! Il y a un message d'Anonymous sur son écran.<br>
 Est-ce qu'Anonymous est ma nouvelle vocation?
 
+* Escribire en español para que usen el **traductor**.
+
+* Es mas facil para mi hacer el ejercicio en español.
+
+* es solo para practicar el github.
+
 
 <<<<<<< HEAD
 ###Gilles Youtou.
