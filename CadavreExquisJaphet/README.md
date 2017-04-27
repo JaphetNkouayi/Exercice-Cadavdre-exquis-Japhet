@@ -29,5 +29,4 @@ void banane()
 /*votre code*/
 	printf("Bananes");
 }
-=======
->>>>>>> f95743e4b59c5c0def2ce9e6443529568e28e1f1
+
