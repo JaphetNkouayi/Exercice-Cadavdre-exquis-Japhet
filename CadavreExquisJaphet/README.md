@@ -1,16 +1,25 @@
 # Exercice-Cadavdre-exquis-Japhet
 Cadavre-exquis
 
-##LE SENS D'UNE VIE
+## LE SENS D'UNE VIE
 ___________________
 
 Sa journée commence par un reveil.
 un bon reveil rendra une journée tres agréable
 une fois arrivé o boulot(en formation pour l'instant)
 
+
+
+Becode Anderlecht se met autour d'une table ronde
+et travaille sur le projet "kill the github"
+et tous proposaient des lignes de commandes pour mater cet outils.
+
+
+
 Il commencera par signer sa présence,
 Préparera ses affaires et ira chercher sa tasse de café...
 
+<<<<<<< HEAD
 ###Gilles Youtou.
 Il est certain que la fonctin banane du code que vous avez fournit ne produit que
 des cerises. je vous propose donc la modification suivante.
@@ -20,3 +29,5 @@ void banane()
 /*votre code*/
 	printf("Bananes");
 }
+=======
+>>>>>>> f95743e4b59c5c0def2ce9e6443529568e28e1f1
