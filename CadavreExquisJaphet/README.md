@@ -1,7 +1,7 @@
 # Exercice-Cadavdre-exquis-Japhet
 Cadavre-exquis
 
-##LE SENS D'UNE VIE
+## LE SENS D'UNE VIE
 ___________________
 
 Sa journée commence par un reveil.
@@ -10,3 +10,7 @@ une fois arrivé o boulot(en formation pour l'instant)
 
 Il commencera par signer sa présence,
 Préparera ses affaires et ira chercher sa tasse de café...
+<br><br>
+Comme tous les jours, il s'asseoit devant l'ordinateur et il l'allume.<br>
+Mais c'est quoi?! Il y a un message d'Anonymous sur son écran.<br>
+Est-ce qu'Anonymous est ma nouvelle vocation?
