@@ -8,9 +8,18 @@ Sa journée commence par un reveil.
 un bon reveil rendra une journée tres agréable
 une fois arrivé o boulot(en formation pour l'instant)
 
+
+
+Becode Anderlecht se met autour d'une table ronde
+et travaille sur le projet "kill the github"
+et tous proposaient des lignes de commandes pour mater cet outils.
+
+
+
 Il commencera par signer sa présence,
 Préparera ses affaires et ira chercher sa tasse de café...
-<br><br>
 Comme tous les jours, il s'asseoit devant l'ordinateur et il l'allume.<br>
 Mais c'est quoi?! Il y a un message d'Anonymous sur son écran.<br>
 Est-ce qu'Anonymous est ma nouvelle vocation?
+
+
