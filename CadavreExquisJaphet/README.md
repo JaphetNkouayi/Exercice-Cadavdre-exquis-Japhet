@@ -23,8 +23,7 @@ Mais c'est quoi?! Il y a un message d'Anonymous sur son écran.<br>
 Est-ce qu'Anonymous est ma nouvelle vocation?
 
 
-<<<<<<< HEAD
-###Gilles Youtou.
+<<<<<<< HEADGilles Youtou.
 Il est certain que la fonctin banane du code que vous avez fournit ne produit que
 des cerises. je vous propose donc la modification suivante.
 
@@ -32,5 +31,5 @@ void banane()
 {
 /*votre code*/
 	printf("Bananes");
-}
+}bon courage
 
